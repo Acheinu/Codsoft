@@ -11,7 +11,7 @@ README.md: Project overview and instructions.
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/sales-prediction.git
+git clone https://github.com/Acheinu/codsoft_taskno.git
 cd sales-prediction
 
 Install required dependencies:
